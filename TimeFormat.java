@@ -29,7 +29,7 @@ public class TimeFormat {
 				System.out.println(hours +":"+ new_min + " AM");
 			}
 			else if (hours<10){
-				System.out.println("0" +hours +":"+ new_min + " AM");
+				System.out.println(hours +":"+ new_min + " AM");
 			}
 
 			
